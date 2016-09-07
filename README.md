@@ -29,3 +29,5 @@ console.log(suma12(76)) // Debería mostrar 88 de resultado.
   console.log(suma12(76)) // Debería mostrar 88 de resultado.
 
 **Explicación**
+
+En el primer caso toma la variable global var num2=0 , la solución propuesta fue ingresar esa variable como parametro de la función.
