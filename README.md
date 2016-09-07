@@ -5,8 +5,8 @@
 Modificar el siguiente script usando closures para que se ejecute sin problemas.
 var num2 = 0;
 
-function suma(num1) {
-	return function() {
+function suma(num1) {  
+	return function() {  
 		return num1 + num2;
 	}
 } 
